@@ -11,15 +11,15 @@
 
       <!-- Center -->
       <div class="md:col-span-6 flex justify-center">
-        <h1 class="text-[140px] leading-none font-light tracking-tighter -mt-8">Hairpin<br><span class="text-[80px]">Legs</span></h1>
+        <h1 class="text-[140px] leading-none font-light tracking-tighter -mt-8">Custom<br><span class="text-[80px]">Hardware</span></h1>
       </div>
 
       <!-- Right -->
       <div class="md:col-span-3 pt-4">
         <p class="text-gray-600 text-[15px] leading-relaxed mb-4">
-          Precision-engineered steel legs.<br>
-          FSC-certified wood components.<br>
-          Transform your furniture vision.
+          Steel legs. Modular components.<br>
+          Furniture hardware reimagined.<br>
+          From hairpin to heavy-duty.
         </p>
         <a href="#" class="text-[13px] font-medium text-gray-900 hover:text-gray-600 transition-colors flex items-center gap-1">
           Explore collection <span class="text-[10px]">></span>
