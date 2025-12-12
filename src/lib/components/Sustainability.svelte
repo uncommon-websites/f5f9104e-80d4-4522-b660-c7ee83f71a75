@@ -6,36 +6,36 @@
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-24">
       <div>
         <h2 class="text-[40px] font-light text-gray-900 leading-tight mb-6">
-          A better future<br>starts in your<br>own Backyard.
+          Built to last,<br>made to endure,<br>designed sustainably.
         </h2>
         <p class="text-gray-500 text-sm max-w-[300px]">
-          Backyard is designed for a better tomorrow. Thanks to top-tier energy efficiency and optional solar arrays, Backyard cuts your dependence on the grid. Think of it as design with purpose—good for you, great for the planet.
+          Every Hairpin leg is crafted with FSC-certified wood components and locally sourced materials. Our commitment to durability means furniture that lasts generations, reducing waste and environmental impact.
         </p>
       </div>
 
       <div class="grid grid-cols-2 gap-8">
         <div class="bg-white/50 p-8 rounded-xl border border-white/60">
-          <div class="text-[40px] font-light mb-2">2x</div>
-          <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">more efficient</p>
+          <div class="text-[40px] font-light mb-2">5yr</div>
+          <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">guarantee</p>
           <p class="text-gray-400 text-[10px] leading-relaxed">
-            Over 2x more energy efficient than an equivalent sized home.
+            All products backed by our comprehensive 5-year quality guarantee.
           </p>
         </div>
         <div class="bg-white/50 p-8 rounded-xl border border-white/60">
-          <div class="text-[40px] font-light mb-2">0<span class="text-lg ml-1">kWh</span></div>
-          <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">net grid utilization</p>
+          <div class="text-[40px] font-light mb-2">100<span class="text-lg ml-1">%</span></div>
+          <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">FSC certified</p>
           <p class="text-gray-400 text-[10px] leading-relaxed">
-            As few as 0 kWh drawn from the grid annually (net) with optional solar arrays.
+            All wood components are FSC-approved and locally sourced for sustainability.
           </p>
         </div>
       </div>
     </div>
 
-    <!-- Solar Roof Image -->
+    <!-- Wood Image -->
     <div class="w-full h-[500px] rounded-2xl overflow-hidden mb-8 relative">
       <img 
-        src="https://images.unsplash.com/photo-1508514177221-188b1cf2f26f?q=80&w=2070&auto=format&fit=crop" 
-        alt="Solar Roof" 
+        src="/generated/image-beautiful-walnut-wood-tabletop-with-visi-1765529053291-9.webp" 
+        alt="FSC certified wood" 
         class="w-full h-full object-cover"
       />
     </div>
@@ -43,42 +43,42 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <!-- Card 1 -->
       <div class="bg-[#fdfbf7] p-8 rounded-2xl min-h-[300px] flex flex-col justify-end">
-        <h3 class="text-xl font-normal mb-2">High performance<br>prefab</h3>
+        <h3 class="text-xl font-normal mb-2">Hand-crafted<br>quality</h3>
         <p class="text-gray-500 text-xs leading-relaxed mb-4">
-          Backyard is factory-assembled using our best-in-class construction system designed for the long haul.
+          Each set is manufactured by the same welder and painter, ensuring perfect consistency and uniformity across all pieces.
         </p>
         <a href="#" class="text-xs font-medium flex items-center gap-1">Details -></a>
       </div>
 
-      <!-- Card 2 (Blue) -->
-      <div class="bg-[#2541b2] p-8 rounded-2xl min-h-[300px] flex flex-col justify-between text-white relative overflow-hidden group">
+      <!-- Card 2 (Teal) -->
+      <div class="bg-[oklch(0.696_0.17_162.48)] p-8 rounded-2xl min-h-[300px] flex flex-col justify-between text-white relative overflow-hidden group">
          <img 
-            src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop" 
+            src="/generated/image-close-up-of-precision-welded-steel-hairp-1765529039448-1.webp" 
             class="absolute inset-0 w-full h-full object-cover opacity-40 mix-blend-overlay"
-            alt="Fire resistant"
+            alt="Precision welding"
          />
          <div class="relative z-10 h-full flex flex-col justify-end">
-            <h3 class="text-xl font-normal mb-2">Fire resistant by design</h3>
+            <h3 class="text-xl font-normal mb-2">Precision engineering</h3>
             <p class="text-white/80 text-xs leading-relaxed mb-4">
-            Smart design and superior materials create unmatched standards for fire, smoke, and ember hazards.
+            Our proprietary cupped weld design creates stronger, more durable joints that stand the test of time.
             </p>
             <a href="#" class="text-xs font-medium flex items-center gap-1">Learn more -></a>
         </div>
       </div>
 
-      <!-- Card 3 (Yellow) -->
-      <div class="bg-[#fbbf24] p-8 rounded-2xl min-h-[300px] flex flex-col justify-between relative overflow-hidden">
+      <!-- Card 3 (Green) -->
+      <div class="bg-[oklch(0.765_0.177_163.223)] p-8 rounded-2xl min-h-[300px] flex flex-col justify-between relative overflow-hidden">
          <img 
-            src="https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2072&auto=format&fit=crop" 
+            src="/generated/image-beautiful-walnut-wood-tabletop-with-visi-1765529053291-9.webp" 
             class="absolute inset-0 w-full h-full object-cover opacity-20 mix-blend-overlay"
-            alt="Solar"
+            alt="Sustainable materials"
          />
          <div class="relative z-10 h-full flex flex-col justify-end">
-            <h3 class="text-xl font-normal mb-2 text-gray-900">Net zero solar roof</h3>
-            <p class="text-gray-800/80 text-xs leading-relaxed mb-4">
-            Save on energy costs every month and even offset the power consumption of your main home.
+            <h3 class="text-xl font-normal mb-2 text-white">Eco-friendly materials</h3>
+            <p class="text-white/80 text-xs leading-relaxed mb-4">
+            FSC-certified wood and locally sourced materials reduce environmental impact while maintaining premium quality.
             </p>
-            <a href="#" class="text-xs font-medium text-gray-900 flex items-center gap-1">Details -></a>
+            <a href="#" class="text-xs font-medium text-white flex items-center gap-1">Details -></a>
         </div>
       </div>
     </div>
